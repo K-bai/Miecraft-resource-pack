@@ -1,0 +1,461 @@
+{
+    "item.mie.name.book": "§r§e羊羊大百科魔法书§r",
+    "item.mie.name.notbook": "§r§o§e羊羊大百科魔法书(未完成)§r",
+    "item.mie.lore0.notbook": "§r你已经研究以下羊羊：§r",
+    "item.mie.lore1.notbook": "§r你尚未研究以下羊羊：§r",
+    "item.mie.loreX_white.notbook": "§r§f白§r ",
+    "item.mie.loreX_orange.notbook": "§r§6橙§r ",
+    "item.mie.loreX_magenta.notbook": "§r§5紫红§r ",
+    "item.mie.loreX_light_blue.notbook": "§r§b海蓝§r ",
+    "item.mie.loreX_yellow.notbook": "§r§e黄§r ",
+    "item.mie.loreX_lime.notbook": "§r§a柠§r ",
+    "item.mie.loreX_pink.notbook": "§r§d粉§r ",
+    "item.mie.loreX_gray.notbook": "§r§8灰§r ",
+    "item.mie.loreX_light_gray.notbook": "§r§7浅灰§r ",
+    "item.mie.loreX_cyan.notbook": "§r§3青§r ",
+    "item.mie.loreX_purple.notbook": "§r§1紫§r ",
+    "item.mie.loreX_blue.notbook": "§r§9蓝§r ",
+    "item.mie.loreX_brown.notbook": "§r§4棕§r ",
+    "item.mie.loreX_green.notbook": "§r§2绿§r ",
+    "item.mie.loreX_red.notbook": "§r§c红§r ",
+    "item.mie.loreX_black.notbook": "§r§0黑§r ",
+
+            
+
+
+    
+
+    "item.mie.book.jumpto_pre": "§o点击跳转至 ",
+    "item.mie.book.jumpto_sub": ".§r",
+
+
+    "item.mie.name.shears": "§r§f羊羊魔法剪§r",
+    "item.mie.lore0.shears": "§r§7§o - 注入羊羊能量后的魔法剪刀§r",
+    "item.mie.lore1.shears": "§r§7§o - 能从羊羊身上剪下更高级副产品§r",
+    "item.mie.lore2.shears": "§r§7§o - 每次使用需消耗一定白色羊羊能量§r",
+
+
+    "item.mie.name.magic_bone_meal": "§r§f羊羊骨粉§r",
+    "item.mie.lore0.magic_bone_meal": "§r§7§o - 用羊羊魔法剪从白色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_bone_meal": "§r§7§o - 与一般的骨粉相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_bone_meal": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_tropical_fish": "§r§6羊羊热带鱼§r",
+    "item.mie.lore0.magic_tropical_fish": "§r§7§o - 用羊羊魔法剪从橙色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_tropical_fish": "§r§7§o - 与一般的热带鱼相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_tropical_fish": "§r§7§o - 或许是从鱼炖羊肉锅里捞出来的§r",
+    "item.mie.lore3.magic_tropical_fish": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_chorus_fruit": "§r§5羊羊紫颂果§r",
+    "item.mie.lore0.magic_chorus_fruit": "§r§7§o - 用羊羊魔法剪从紫红羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_chorus_fruit": "§r§7§o - 与一般的紫颂果相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_chorus_fruit": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_ice": "§r§b羊羊冰§r",
+    "item.mie.lore0.magic_ice": "§r§7§o - 用羊羊魔法剪从海蓝羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_ice": "§r§7§o - 与一般的冰相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_ice": "§r§7§o - 或许是从羊肉冰窖里凿下来的§r",
+    "item.mie.lore3.magic_ice": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_gold_nugget": "§r§e羊羊金粒§r",
+    "item.mie.lore0.magic_gold_nugget": "§r§7§o - 用羊羊魔法剪从黄色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_gold_nugget": "§r§7§o - 与一般的金粒相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_gold_nugget": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_sugar_cane": "§r§a羊羊甘蔗§r",
+    "item.mie.lore0.magic_sugar_cane": "§r§7§o - 用羊羊魔法剪从柠色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_sugar_cane": "§r§7§o - 与一般的甘蔗相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_sugar_cane": "§r§7§o - 或许羊羊们在上面打过滚§r",
+    "item.mie.lore3.magic_sugar_cane": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_beetroot": "§r§d羊羊甜菜根§r",
+    "item.mie.lore0.magic_beetroot": "§r§7§o - 用羊羊魔法剪从粉色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_beetroot": "§r§7§o - 与一般的甜菜根相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_beetroot": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_gunpowder": "§r§8羊羊火药§r",
+    "item.mie.lore0.magic_gunpowder": "§r§7§o - 用羊羊魔法剪从灰色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_gunpowder": "§r§7§o - 与一般的火药相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_gunpowder": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_iron_nugget": "§r§7羊羊铁粒§r",
+    "item.mie.lore0.magic_iron_nugget": "§r§7§o - 用羊羊魔法剪从浅灰羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_iron_nugget": "§r§7§o - 与一般的铁粒相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_iron_nugget": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_prismarine_shard": "§r§3羊羊海晶碎片§r",
+    "item.mie.lore0.magic_prismarine_shard": "§r§7§o - 用羊羊魔法剪从青色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_prismarine_shard": "§r§7§o - 与一般的海晶碎片相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_prismarine_shard": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_obsidian": "§r§1羊羊黑曜石§r",
+    "item.mie.lore0.magic_obsidian": "§r§7§o - 用羊羊魔法剪从紫色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_obsidian": "§r§7§o - 与一般的黑曜石相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_obsidian": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_lapis_lazuli": "§r§9羊羊青金石§r",
+    "item.mie.lore0.magic_lapis_lazuli": "§r§7§o - 用羊羊魔法剪从蓝色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_lapis_lazuli": "§r§7§o - 与一般的青金石相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_lapis_lazuli": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_bricks": "§r§4羊羊砖块§r",
+    "item.mie.lore0.magic_bricks": "§r§7§o - 用羊羊魔法剪从棕色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_bricks": "§r§7§o - 与一般的砖块相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_bricks": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_oak_wood": "§r§2羊羊橡木§r",
+    "item.mie.lore0.magic_oak_wood": "§r§7§o - 用羊羊魔法剪从绿色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_oak_wood": "§r§7§o - 与一般的橡木相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_oak_wood": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_redstone": "§r§c羊羊红石§r",
+    "item.mie.lore0.magic_redstone": "§r§7§o - 用羊羊魔法剪从红色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_redstone": "§r§7§o - 与一般的红石相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_redstone": "§r§7§o - 或许会有其他用处§r",
+    
+    "item.mie.name.magic_ender_pearl": "§r§0羊羊末影珍珠§r",
+    "item.mie.lore0.magic_ender_pearl": "§r§7§o - 用羊羊魔法剪从黑色羊羊身上剪下的精华§r",
+    "item.mie.lore1.magic_ender_pearl": "§r§7§o - 与一般的末影珍珠相同，只是具有羊羊的味道§r",
+    "item.mie.lore2.magic_ender_pearl": "§r§7§o - 或许会有其他用处§r",
+
+    "item.mie.name.light_shell": "§r§f硬化轻型外壳§r",
+    "item.mie.lore0.light_shell": "§r§7§o - 由羊羊骨粉注魔变化形成§r",
+    "item.mie.lore1.light_shell": "§r§7§o - 轻质、坚硬、易碎§r",
+    
+    "item.mie.name.bio_essence": "§r§6生物精华§r",
+    "item.mie.lore0.bio_essence": "§r§7§o - 由羊羊热带鱼注魔变化形成§r",
+    "item.mie.lore1.bio_essence": "§r§7§o - 粘稠，味难闻§r",
+    
+    "item.mie.name.glue": "§r§5粘结剂§r",
+    "item.mie.lore0.glue": "§r§7§o - 由羊羊紫颂果注魔变化形成§r",
+    "item.mie.lore1.glue": "§r§7§o - 极度粘稠的液体，粘合时间短§r",
+    
+    "item.mie.name.cooling_block": "§r§b冷却块§r",
+    "item.mie.lore0.cooling_block": "§r§7§o - 由羊羊冰注魔变化形成§r",
+    "item.mie.lore1.cooling_block": "§r§7§o - 块内部散发出极寒的气息§r",
+    
+    "item.mie.name.yellow_energy_block": "§r§e黄能量块§r",
+    "item.mie.lore0.yellow_energy_block": "§r§7§o - 由羊羊金粒注魔变化形成§r",
+    "item.mie.lore1.yellow_energy_block": "§r§7§o - 黄色能量块。§r",
+    
+    "item.mie.name.fibre": "§r§a植物纤维§r",
+    "item.mie.lore0.fibre": "§r§7§o - 由羊羊甘蔗注魔变化形成§r",
+    "item.mie.lore1.fibre": "§r§7§o - 韧性强，抗拉强度很高§r",
+    
+    "item.mie.name.sap": "§r§d植物汁液§r",
+    "item.mie.lore0.sap": "§r§7§o - 由羊羊甜菜根注魔变化形成§r",
+    "item.mie.lore1.sap": "§r§7§o - 带有芳香气息的透明液体§r",
+    
+    "item.mie.name.solid_fuel": "§r§8固体燃料§r",
+    "item.mie.lore0.solid_fuel": "§r§7§o - 由羊羊火药注魔变化形成§r",
+    "item.mie.lore1.solid_fuel": "§r§7§o - 极易燃，需妥善保存§r",
+    
+    "item.mie.name.metal_fastener": "§r§7金属紧固件§r",
+    "item.mie.lore0.metal_fastener": "§r§7§o - 由羊羊铁粒注魔变化形成§r",
+    "item.mie.lore1.metal_fastener": "§r§7§o - 用于固定各种板材§r",
+    
+    "item.mie.name.prismarine_baffle": "§r§3海晶隔板§r",
+    "item.mie.lore0.prismarine_baffle": "§r§7§o - 由羊羊海晶碎片注魔变化形成§r",
+    "item.mie.lore1.prismarine_baffle": "§r§7§o - 有着海晶花纹的隔板，耐腐蚀§r",
+    
+    "item.mie.name.obsidian_crystal": "§r§1黑曜晶体§r",
+    "item.mie.lore0.obsidian_crystal": "§r§7§o - 由羊羊黑曜石注魔变化形成§r",
+    "item.mie.lore1.obsidian_crystal": "§r§7§o - 装饰用。§r",
+    
+    "item.mie.name.blue_energy_block": "§r§9蓝能量块§r",
+    "item.mie.lore0.blue_energy_block": "§r§7§o - 由羊羊青金石注魔变化形成§r",
+    "item.mie.lore1.blue_energy_block": "§r§7§o - 蓝色能量块。§r",
+    
+    "item.mie.name.heavy_shell": "§r§4厚重外壳§r",
+    "item.mie.lore0.heavy_shell": "§r§7§o - 由羊羊砖块注魔变化形成§r",
+    "item.mie.lore1.heavy_shell": "§r§7§o - 壁厚、密度大、耐热§r",
+    
+    "item.mie.name.wooden_handle": "§r§2木质柄§r",
+    "item.mie.lore0.wooden_handle": "§r§7§o - 由羊羊橡木注魔变化形成§r",
+    "item.mie.lore1.wooden_handle": "§r§7§o - 较为脆弱的柄，成本低§r",
+    
+    "item.mie.name.red_energy_block": "§r§c红能量块§r",
+    "item.mie.lore0.red_energy_block": "§r§7§o - 由羊羊红石注魔变化形成§r",
+    "item.mie.lore1.red_energy_block": "§r§7§o - 红色能量块。§r",
+    
+    "item.mie.name.clear_ender_glass": "§r§0透明末影玻璃§r",
+    "item.mie.lore0.clear_ender_glass": "§r§7§o - 由羊羊末影珍珠注魔变化形成§r",
+    "item.mie.lore1.clear_ender_glass": "§r§7§o - 纯度极高，透明度极好，可加工用作透镜§r",
+
+    "item.mie.name.item_energy_buffer": "§r§f羊羊能量缓冲罐§r",
+    "item.mie.lore0.item_energy_buffer": "§r§7§o - 快速吸收及释放微量羊羊能量§r",
+
+    "item.mie.name.advanced_item_energy_buffer": "§r§e高级羊羊能量缓冲罐§r",
+    "item.mie.lore0.advanced_item_energy_buffer": "§r§7§o - 超快速吸收及释放少量羊羊能量§r",
+
+    "item.mie.name.item_energy_controller": "§r§f羊羊能量控制器§r",
+    "item.mie.lore0.item_energy_controller": "§r§7§o - 控制微量羊羊能量的流动§r",
+
+    "item.mie.name.advanced_item_energy_controller": "§r§e高级羊羊能量控制器§r",
+    "item.mie.lore0.advanced_item_energy_controller": "§r§7§o - 控制少量羊羊能量的流动§r",
+
+    "item.mie.name.micro_lens": "§r§f微透镜§r",
+    "item.mie.lore0.micro_lens": "§r§7§o - 聚焦光线以及羊羊能量§r",
+
+    "item.mie.name.micro_field_generator": "§r§f微型羊羊力场发射器§r",
+    "item.mie.lore0.micro_field_generator": "§r§7§o - 发射由羊羊能量组成的微型力场§r",
+
+    "item.mie.name.sheep_helmet": "§r§e羊羊魔法头盔§r",
+    "item.mie.lore0.sheep_helmet": "§r§7§o - 充满羊羊能量的头盔§r",
+    "item.mie.lore1.sheep_helmet": "§r§7§o - 羊羊能量会使它显出不一样的颜色§r",
+    "item.mie.lore2.sheep_helmet": "§r§7§o - 整套装备能够利用浅灰羊羊能量抵消伤害§r",
+
+    "item.mie.name.sheep_chestplate": "§r§e羊羊魔法胸甲§r",
+    "item.mie.lore0.sheep_chestplate": "§r§7§o - 充满羊羊能量的胸甲§r",
+    "item.mie.lore1.sheep_chestplate": "§r§7§o - 羊羊能量会使它显出不一样的颜色§r",
+    "item.mie.lore2.sheep_chestplate": "§r§7§o - 整套装备能够利用浅灰羊羊能量抵消伤害§r",
+
+    "item.mie.name.sheep_leggings": "§r§e羊羊魔法护腿§r",
+    "item.mie.lore0.sheep_leggings": "§r§7§o - 充满羊羊能量的护腿§r",
+    "item.mie.lore1.sheep_leggings": "§r§7§o - 羊羊能量会使它显出不一样的颜色§r",
+    "item.mie.lore2.sheep_leggings": "§r§7§o - 整套装备能够利用浅灰羊羊能量抵消伤害§r",
+
+    "item.mie.name.sheep_boots": "§r§e羊羊魔法靴子§r",
+    "item.mie.lore0.sheep_boots": "§r§7§o - 充满羊羊能量的靴子§r",
+    "item.mie.lore1.sheep_boots": "§r§7§o - 羊羊能量会使它显出不一样的颜色§r",
+    "item.mie.lore2.sheep_boots": "§r§7§o - 整套装备能够利用浅灰羊羊能量抵消伤害§r",
+
+    "item.mie.name.pot.white": "§r§f白色羊羊魔法罐§r",
+    "item.mie.lore0.pot.white": "§r§7§o - 最基础且纯净的羊羊魔法罐§r",
+    "item.mie.lore1.pot.white": "§r§7§o - 吸收白羊羊并转化为10点白色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.white": "§r§7§o - 最多保存100点白色羊羊能量§r",
+    "item.mie.lore9.pot.white": "§r§f白色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.white": "§r§f白色羊羊能量：§r§f",
+
+    "item.mie.name.pot.orange": "§r§6橙色羊羊魔法罐§r",
+    "item.mie.lore0.pot.orange": "§r§7§o - 橙色是成长的颜色，在橙色魔法罐中富集§r",
+    "item.mie.lore1.pot.orange": "§r§7§o - 吸收橙羊羊并转化为10点橙色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.orange": "§r§7§o - 消耗10点橙色羊羊能量，使一只小动物成长§r",
+    "item.mie.lore3.pot.orange": "§r§7§o - 最多保存50点橙色羊羊能量§r",
+    "item.mie.lore9.pot.orange": "§r§6橙色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.orange": "§r§6橙色羊羊能量：§r§f",
+
+    "item.mie.name.pot.magenta": "§r§5紫红羊羊魔法罐§r",
+    "item.mie.lore0.pot.magenta": "§r§7§o - 想要付出的心情，变为紫红色的烟花盛放§r",
+    "item.mie.lore1.pot.magenta": "§r§7§o - 吸收紫红羊羊并转化为15点紫红羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.magenta": "§r§7§o - 消耗1点紫红羊羊能量，向前发射一只紫红色烟花§r",
+    "item.mie.lore3.pot.magenta": "§r§7§o - 最多保存50点紫红羊羊能量§r",
+    "item.mie.lore9.pot.magenta": "§r§5紫红羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.magenta": "§r§5紫红羊羊能量：§r§f",
+
+    "item.mie.name.pot.light_blue": "§r§b海蓝羊羊魔法罐§r",
+    "item.mie.lore0.pot.light_blue": "§r§7§o - 海蓝的笔，如大海一般多姿§r",
+    "item.mie.lore1.pot.light_blue": "§r§7§o - 吸收海蓝羊羊并转化为10点海蓝羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.light_blue": "§r§7§o - 消耗1点海蓝羊羊能量，右击羊羊或方块改变其颜色§r",
+    "item.mie.lore3.pot.light_blue": "§r§7§o - 对空气右击改变循环画笔颜色",
+    "item.mie.lore4.pot.light_blue": "§r§7§o - 最多保存50点海蓝羊羊能量§r",
+    "item.mie.lore8_white.pot.light_blue": "§r§b当前颜色：§f白§r",
+    "item.mie.lore8_orange.pot.light_blue": "§r§b当前颜色：§6橙§r",
+    "item.mie.lore8_magenta.pot.light_blue": "§r§b当前颜色：§5紫红§r",
+    "item.mie.lore8_light_blue.pot.light_blue": "§r§b当前颜色：§b海蓝§r",
+    "item.mie.lore8_yellow.pot.light_blue": "§r§b当前颜色：§e黄§r",
+    "item.mie.lore8_lime.pot.light_blue": "§r§b当前颜色：§a柠§r",
+    "item.mie.lore8_pink.pot.light_blue": "§r§b当前颜色：§d粉§r",
+    "item.mie.lore8_gray.pot.light_blue": "§r§b当前颜色：§8灰§r",
+    "item.mie.lore8_light_gray.pot.light_blue": "§r§b当前颜色：§7浅灰§r",
+    "item.mie.lore8_cyan.pot.light_blue": "§r§b当前颜色：§3青§r",
+    "item.mie.lore8_purple.pot.light_blue": "§r§b当前颜色：§1紫§r",
+    "item.mie.lore8_blue.pot.light_blue": "§r§b当前颜色：§9蓝§r",
+    "item.mie.lore8_brown.pot.light_blue": "§r§b当前颜色：§4棕§r",
+    "item.mie.lore8_green.pot.light_blue": "§r§b当前颜色：§2绿§r",
+    "item.mie.lore8_red.pot.light_blue": "§r§b当前颜色：§c红§r",
+    "item.mie.lore8_black.pot.light_blue": "§r§b当前颜色：§0黑§r",
+    "item.mie.lore9.pot.light_blue": "§r§b海蓝羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.light_blue": "§r§b海蓝羊羊能量：§r§f",
+
+    "item.mie.name.pot.yellow": "§r§e黄色羊羊魔法罐§r",
+    "item.mie.lore0.pot.yellow": "§r§7§o - 引你不断前行的，是一盏金黄的灯§r",
+    "item.mie.lore1.pot.yellow": "§r§7§o - 吸收黄羊羊并转化为10点黄色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.yellow": "§r§7§o - 消耗5点黄色羊羊能量，高亮周围怪物20s§r",
+    "item.mie.lore3.pot.yellow": "§r§7§o - 最多保存50点黄色羊羊能量§r",
+    "item.mie.lore9.pot.yellow": "§r§e黄色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.yellow": "§r§e黄色羊羊能量：§r§f",
+
+    "item.mie.name.pot.lime": "§r§a柠檬羊羊魔法罐§r",
+    "item.mie.lore0.pot.lime": "§r§7§o - 柠檬色的甘霖，那是生长的力量§r",
+    "item.mie.lore1.pot.lime": "§r§7§o - 吸收柠檬羊羊并转化为10点柠檬羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.lime": "§r§7§o - 消耗2点柠檬羊羊能量，使面前一格作物成熟§r",
+    "item.mie.lore3.pot.lime": "§r§7§o - 最多保存50点黄色羊羊能量§r",
+    "item.mie.lore9.pot.lime": "§r§a柠檬羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.lime": "§r§a柠檬羊羊能量：§r§f",
+
+    "item.mie.name.pot.pink": "§r§d粉色羊羊魔法罐§r",
+    "item.mie.lore0.pot.pink": "§r§7§o - 谁又能想到粉色拥有治愈的力量呢§r",
+    "item.mie.lore1.pot.pink": "§r§7§o - 吸收粉羊羊并转化为10点粉色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.pink": "§r§7§o - 消耗5点粉色羊羊能量，丢出一瓶治愈药水§r",
+    "item.mie.lore3.pot.pink": "§r§7§o - 最多保存50点粉色羊羊能量§r",
+    "item.mie.lore9.pot.pink": "§r§d粉色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.pink": "§r§d粉色羊羊能量：§r§f",
+
+    "item.mie.name.pot.gray": "§r§8灰色羊羊魔法罐§r",
+    "item.mie.lore0.pot.gray": "§r§7§o - 灰色站在了创造的对立面§r",
+    "item.mie.lore1.pot.gray": "§r§7§o - 吸收灰羊羊并转化为10点灰色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.gray": "§r§7§o - 消耗1点灰色羊羊能量，挖掘面前3*3的石头方块",
+    "item.mie.lore3.pot.gray": "§r§7§o - 最多保存50点灰色羊羊能量§r",
+    "item.mie.lore9.pot.gray": "§r§8灰色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.gray": "§r§8灰色羊羊能量：§r§f",
+
+    "item.mie.name.pot.light_gray": "§r§7浅灰羊羊魔法罐§r",
+    "item.mie.lore0.pot.light_gray": "§r§7§o - 与白羊羊相似，却不够纯洁。正因不够纯洁，而显的更加高贵§r",
+    "item.mie.lore1.pot.light_gray": "§r§7§o - 吸收浅灰羊羊并转化为5点浅灰羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.light_gray": "§r§7§o - 最多保存100点浅灰羊羊能量§r",
+    "item.mie.lore9.pot.light_gray": "§r§7浅灰羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.light_gray": "§r§7浅灰羊羊能量：§r§f",
+
+
+    "item.mie.name.pot.cyan": "§r§3青色羊羊魔法罐§r",
+    "item.mie.lore0.pot.cyan": "§r§7§o - 青色的春天到了，又到了交配的季节§r",
+    "item.mie.lore1.pot.cyan": "§r§7§o - 吸收青羊羊并转化为10点青色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.cyan": "§r§7§o - 消耗5点青色羊羊能量，使一只动物进入发情状态§r",
+    "item.mie.lore3.pot.cyan": "§r§7§o - 最多保存50点青色羊羊能量§r",
+    "item.mie.lore9.pot.cyan": "§r§3青色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.cyan": "§r§3青色羊羊能量：§r§f",
+
+    "item.mie.name.pot.purple": "§r§1紫色羊羊魔法罐§r",
+    "item.mie.lore0.pot.purple": "§r§7§o - 红蓝之间，取而不破§r",
+    "item.mie.lore1.pot.purple": "§r§7§o - 吸收紫羊羊并转化为2点紫色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.purple": "§r§7§o - 消耗50点紫色羊羊能量，获得面前方块的核心掉落物（而不破坏它）§r",
+    "item.mie.lore3.pot.purple": "§r§7§o - 最多保存50点紫色羊羊能量§r",
+    "item.mie.lore9.pot.purple": "§r§1紫色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.purple": "§r§1紫色羊羊能量：§r§f",
+
+    "item.mie.name.pot.blue": "§r§9蓝色羊羊魔法罐§r",
+    "item.mie.lore0.pot.blue": "§r§7§o - 碧蓝如水，清泉涌起§r",
+    "item.mie.lore1.pot.blue": "§r§7§o - 吸收蓝羊羊并转化为10点蓝色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.blue": "§r§7§o - 消耗2点蓝色羊羊能量，在面前放置一桶水§r",
+    "item.mie.lore3.pot.blue": "§r§7§o - 消耗1点蓝色羊羊能量，将面前的水收回",
+    "item.mie.lore4.pot.blue": "§r§7§o - 最多保存50点蓝色羊羊能量§r",
+    "item.mie.lore9.pot.blue": "§r§9蓝色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.blue": "§r§9蓝色羊羊能量：§r§f",
+
+    "item.mie.name.pot.brown": "§r§4棕色羊羊魔法罐§r",
+    "item.mie.lore0.pot.brown": "§r§7§o - 谁又能想到棕色拥有混乱的力量呢§r",
+    "item.mie.lore1.pot.brown": "§r§7§o - 吸收棕羊羊并转化为10点棕色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.brown": "§r§7§o - 消耗5点棕色羊羊能量，丢出一瓶伤害药水§r",
+    "item.mie.lore3.pot.brown": "§r§7§o - 最多保存50点棕色羊羊能量§r",
+    "item.mie.lore9.pot.brown": "§r§4棕色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.brown": "§r§4棕色羊羊能量：§r§f",
+
+    "item.mie.name.pot.green": "§r§2绿色羊羊魔法罐§r",
+    "item.mie.lore0.pot.green": "§r§7§o - 这该死的绿色，竟是森林最大的敌人§r",
+    "item.mie.lore1.pot.green": "§r§7§o - 吸收绿羊羊并转化为10点绿色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.green": "§r§7§o - 右击树根部，将一颗树砍倒，每块木头消耗1点绿色羊羊能量§r",
+    "item.mie.lore3.pot.green": "§r§7§o - 最多保存50点绿色羊羊能量§r",
+    "item.mie.lore9.pot.green": "§r§2绿色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.green": "§r§2绿色羊羊能量：§r§f",
+
+    "item.mie.name.pot.red": "§r§c红色羊羊魔法罐§r",
+    "item.mie.lore0.pot.red": "§r§7§o - 将这鲜红注入矿石，得到双倍奉还§r",
+    "item.mie.lore1.pot.red": "§r§7§o - 吸收红羊羊并转化为10点红色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.red": "§r§7§o - 消耗3点红色羊羊能量，将面前的铁矿石或金矿石烧炼为两个金属锭§r",
+    "item.mie.lore3.pot.red": "§r§7§o - 最多保存50点红色羊羊能量§r",
+    "item.mie.lore9.pot.red": "§r§c红色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.red": "§r§c红色羊羊能量：§r§f",
+
+    "item.mie.name.pot.black": "§r§0黑色羊羊魔法罐§r",
+    "item.mie.lore0.pot.black": "§r§7§o - 神秘的黑色，幽灵般的交互§r",
+    "item.mie.lore1.pot.black": "§r§7§o - 吸收黑羊羊并转化为5点黑色羊羊能量保存在罐内§r",
+    "item.mie.lore2.pot.black": "§r§7§o - 首次使用时消耗50点黑色羊羊能量，预设一个传送点，此后不可改变§r",
+    "item.mie.lore3.pot.black": "§r§7§o - 再次使用时消耗50点黑色羊羊能量，回到预设传送点§r",
+    "item.mie.lore4.pot.black": "§r§7§o - 最多保存50点黑色羊羊能量§r",
+    "item.mie.lore8.pot.black": "§r§f未设定传送点§r",
+    "item.mie.lore8_ow.pot.black": "§r§f传送点：(主世界,",
+    "item.mie.lore8_ne.pot.black": "§r§f传送点：(地狱,",
+    "item.mie.lore8_ed.pot.black": "§r§f传送点：(末地,",
+    "item.mie.lore9.pot.black": "§r§0黑色羊羊能量：§r§f0§r",
+    "item.mie.lore9a.pot.black": "§r§0黑色羊羊能量：§r§f",
+
+
+    "item.mie.name.diamond_magic_sword": "§r§b钻石羊羊魔法剑§r",
+    "item.mie.lore0.diamond_magic_sword": "§r§7§o - 注入浅灰羊羊能量后的魔法剑§r",
+    "item.mie.lore1.diamond_magic_sword": "§r§7§o - 浅灰羊羊能量越充足伤害越高§r",
+    "item.mie.lore2.diamond_magic_sword": "§r§7§o - 攻击消耗一定量浅灰羊羊能量§r",
+
+    "item.mie.name.golden_magic_sword": "§r§e金质羊羊魔法剑§r",
+    "item.mie.lore0.golden_magic_sword": "§r§7§o - 注入黄色羊羊能量后的魔法剑§r",
+    "item.mie.lore1.golden_magic_sword": "§r§7§o - 击中敌人掉落经验§r",
+    "item.mie.lore2.golden_magic_sword": "§r§7§o - 攻击消耗一定量黄色羊羊能量§r",
+
+    "info.mie.pot.light_blue.switch.white": "§r§7§o - 海蓝羊羊：颜色切换至 §f白",
+    "info.mie.pot.light_blue.switch.orange": "§r§7§o - 海蓝羊羊：颜色切换至 §6橙",
+    "info.mie.pot.light_blue.switch.magenta": "§r§7§o - 海蓝羊羊：颜色切换至 §5紫红",
+    "info.mie.pot.light_blue.switch.light_blue": "§r§7§o - 海蓝羊羊：颜色切换至 §b海蓝",
+    "info.mie.pot.light_blue.switch.yellow": "§r§7§o - 海蓝羊羊：颜色切换至 §e黄",
+    "info.mie.pot.light_blue.switch.lime": "§r§7§o - 海蓝羊羊：颜色切换至 §a柠",
+    "info.mie.pot.light_blue.switch.pink": "§r§7§o - 海蓝羊羊：颜色切换至 §d粉",
+    "info.mie.pot.light_blue.switch.gray": "§r§7§o - 海蓝羊羊：颜色切换至 §8灰",
+    "info.mie.pot.light_blue.switch.light_gray": "§r§7§o - 海蓝羊羊：颜色切换至 §7浅灰",
+    "info.mie.pot.light_blue.switch.cyan": "§r§7§o - 海蓝羊羊：颜色切换至 §3青",
+    "info.mie.pot.light_blue.switch.purple": "§r§7§o - 海蓝羊羊：颜色切换至 §1紫",
+    "info.mie.pot.light_blue.switch.blue": "§r§7§o - 海蓝羊羊：颜色切换至 §9蓝",
+    "info.mie.pot.light_blue.switch.brown": "§r§7§o - 海蓝羊羊：颜色切换至 §4棕",
+    "info.mie.pot.light_blue.switch.green": "§r§7§o - 海蓝羊羊：颜色切换至 §2绿",
+    "info.mie.pot.light_blue.switch.red": "§r§7§o - 海蓝羊羊：颜色切换至 §c红",
+    "info.mie.pot.light_blue.switch.black": "§r§7§o - 海蓝羊羊：颜色切换至 §0黑",
+    
+    "info.mie.pot.black.cant_tp": "§r§7§o - 黑羊羊的魔法无法将你传送到另一个世界.§r",
+    "info.mie.pot.black.set_p_ow": "§r§7§o - 本魔法罐传送点已永久设置.(主世界:",
+    "info.mie.pot.black.set_p_ne": "§r§7§o - 本魔法罐传送点已永久设置.(地狱:",
+    "info.mie.pot.black.set_p_ed": "§r§7§o - 本魔法罐传送点已永久设置.(末地:",
+    
+    "info.mie.pot.add_energy.white": "§r§7§o - 白色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.orange": "§r§7§o - 橙色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.magenta": "§r§7§o - 紫红羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.light_blue": "§r§7§o - 海蓝羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.yellow": "§r§7§o - 黄色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.lime": "§r§7§o - 柠色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.pink": "§r§7§o - 粉色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.gray": "§r§7§o - 灰色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.light_gray": "§r§7§o - 浅灰羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.cyan": "§r§7§o - 青色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.purple": "§r§7§o - 紫色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.blue": "§r§7§o - 蓝色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.brown": "§r§7§o - 棕色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.green": "§r§7§o - 绿色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.red": "§r§7§o - 红色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.black": "§r§7§o - 黑色羊羊魔法罐容量不足，能量溢出",
+    "info.mie.pot.add_energy.suf": "点.",
+    
+    "info.mie.pot.no_energy.white": "§r§7§o - 白色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.orange": "§r§7§o - 橙色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.magenta": "§r§7§o - 紫红羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.light_blue": "§r§7§o - 海蓝羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.yellow": "§r§7§o - 黄色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.lime": "§r§7§o - 柠色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.pink": "§r§7§o - 粉色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.gray": "§r§7§o - 灰色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.light_gray": "§r§7§o - 浅灰羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.cyan": "§r§7§o - 青色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.purple": "§r§7§o - 紫色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.blue": "§r§7§o - 蓝色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.brown": "§r§7§o - 棕色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.green": "§r§7§o - 绿色羊羊能量不足，你的精力透支了. 共需要",
+    "info.mie.pot.no_energy.green.suf": "点绿色羊羊能量.",
+    "info.mie.pot.no_energy.red": "§r§7§o - 红色羊羊能量不足，你的精力透支了.§r",
+    "info.mie.pot.no_energy.black": "§r§7§o - 黑色羊羊能量不足，你的精力透支了.§r",
+
+
+
+
+
+    "info.mie.infusion.start": "§r§7§o - 注魔开始, 请按配方安排足量羊羊能量§r",
+    "info.mie.infusion.success": "§r§7§o - 注魔完成.§r",
+    "info.mie.infusion.fail": "§r§7§o - 能量不足, 注魔失败.§r",
+    "info.mie.infusion.interrupt": "§r§7§o - 注魔中断.§r"
+
+
+}
+
+
+
+
+
+
+
+
+

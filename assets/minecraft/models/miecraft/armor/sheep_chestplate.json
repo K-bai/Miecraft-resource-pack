@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "miecraft/armor/sheep_chestplate",
+        "layer1": "miecraft/armor/sheep_chestplate_overlay"
+    }
+}

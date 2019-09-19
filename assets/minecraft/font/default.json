@@ -1,0 +1,159 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/magic_book/finished.png",
+            "height": 12,
+            "ascent": 12,
+            "chars": ["\ue600"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/gui/multiblock.png",
+            "height": 12,
+            "ascent": 12,
+            "chars": ["\ue601"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/blue_energy_block.png",
+            "height": 12,
+            "ascent": 12,
+            "chars": ["\ue602"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/gui/back.png",
+            "height": 12,
+            "ascent": 12,
+            "chars": ["\ue603"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/gui/hline.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\ue604"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/gui/small_space.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\ue605"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/gui/magic_pot_structure1.png",
+            "height": 48,
+            "ascent": 8,
+            "chars": ["\ue606"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/gui/magic_pot_structure2.png",
+            "height": 48,
+            "ascent": 8,
+            "chars": ["\ue607"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/gui/advanced_infusion_structure1.png",
+            "height": 48,
+            "ascent": 8,
+            "chars": ["\ue608"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/gui/advanced_infusion_structure2.png",
+            "height": 48,
+            "ascent": 8,
+            "chars": ["\ue609"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/gui/infusion_structure1.png",
+            "height": 48,
+            "ascent": 8,
+            "chars": ["\ue60a"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:miecraft/gui/infusion_structure2.png",
+            "height": 48,
+            "ascent": 8,
+            "chars": ["\ue60b"]
+        },
+        
+        {"type": "bitmap","file": "minecraft:miecraft/magic_book/processing.png","height": 8,"ascent": 8,"chars": ["\ue660"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_book/finished.png","height": 8,"ascent": 8,"chars": ["\ue661"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/white/0.png","height": 8,"ascent": 8,"chars": ["\ue662"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/orange/0.png","height": 8,"ascent": 8,"chars": ["\ue663"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/magenta/0.png","height": 8,"ascent": 8,"chars": ["\ue664"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/light_blue/0.png","height": 8,"ascent": 8,"chars": ["\ue665"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/yellow/0.png","height": 8,"ascent": 8,"chars": ["\ue666"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/lime/0.png","height": 8,"ascent": 8,"chars": ["\ue667"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/pink/0.png","height": 8,"ascent": 8,"chars": ["\ue668"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/gray/0.png","height": 8,"ascent": 8,"chars": ["\ue669"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/light_gray/0.png","height": 8,"ascent": 8,"chars": ["\ue670"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/cyan/0.png","height": 8,"ascent": 8,"chars": ["\ue671"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/purple/0.png","height": 8,"ascent": 8,"chars": ["\ue672"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/blue/0.png","height": 8,"ascent": 8,"chars": ["\ue673"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/brown/0.png","height": 8,"ascent": 8,"chars": ["\ue674"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/green/0.png","height": 8,"ascent": 8,"chars": ["\ue675"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/red/0.png","height": 8,"ascent": 8,"chars": ["\ue676"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_pot/black/0.png","height": 8,"ascent": 8,"chars": ["\ue677"]},
+        
+        {"type": "bitmap","file": "minecraft:miecraft/magic_shears.png","height": 8,"ascent": 8,"chars": ["\ue678"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_sword/diamond.png","height": 8,"ascent": 8,"chars": ["\ue679"]},
+        {"type": "bitmap","file": "minecraft:miecraft/magic_sword/golden.png","height": 8,"ascent": 8,"chars": ["\ue680"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sheep_helmet_icon.png","height": 8,"ascent": 8,"chars": ["\ue681"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sheep_chestplate_icon.png","height": 8,"ascent": 8,"chars": ["\ue682"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sheep_leggings_icon.png","height": 8,"ascent": 8,"chars": ["\ue683"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sheep_boots_icon.png","height": 8,"ascent": 8,"chars": ["\ue684"]},
+        
+        {"type": "bitmap","file": "minecraft:item/bone_meal.png","height": 8,"ascent": 8,"chars": ["\ue685"]},
+        {"type": "bitmap","file": "minecraft:item/tropical_fish.png","height": 8,"ascent": 8,"chars": ["\ue686"]},
+        {"type": "bitmap","file": "minecraft:item/chorus_fruit.png","height": 8,"ascent": 8,"chars": ["\ue687"]},
+        {"type": "bitmap","file": "minecraft:block/ice.png","height": 8,"ascent": 8,"chars": ["\ue688"]},
+        {"type": "bitmap","file": "minecraft:item/gold_nugget.png","height": 8,"ascent": 8,"chars": ["\ue689"]},
+        {"type": "bitmap","file": "minecraft:item/sugar_cane.png","height": 8,"ascent": 8,"chars": ["\ue690"]},
+        {"type": "bitmap","file": "minecraft:item/beetroot.png","height": 8,"ascent": 8,"chars": ["\ue691"]},
+        {"type": "bitmap","file": "minecraft:item/gunpowder.png","height": 8,"ascent": 8,"chars": ["\ue692"]},
+        {"type": "bitmap","file": "minecraft:item/iron_nugget.png","height": 8,"ascent": 8,"chars": ["\ue693"]},
+        {"type": "bitmap","file": "minecraft:item/prismarine_shard.png","height": 8,"ascent": 8,"chars": ["\ue694"]},
+        {"type": "bitmap","file": "minecraft:block/obsidian.png","height": 8,"ascent": 8,"chars": ["\ue695"]},
+        {"type": "bitmap","file": "minecraft:item/lapis_lazuli.png","height": 8,"ascent": 8,"chars": ["\ue696"]},
+        {"type": "bitmap","file": "minecraft:block/bricks.png","height": 8,"ascent": 8,"chars": ["\ue697"]},
+        {"type": "bitmap","file": "minecraft:block/oak_log.png","height": 8,"ascent": 8,"chars": ["\ue698"]},
+        {"type": "bitmap","file": "minecraft:item/redstone.png","height": 8,"ascent": 8,"chars": ["\ue699"]},
+        {"type": "bitmap","file": "minecraft:item/ender_pearl.png","height": 8,"ascent": 8,"chars": ["\ue6a0"]},
+        
+        {"type": "bitmap","file": "minecraft:miecraft/light_shell.png","height": 8,"ascent": 8,"chars": ["\ue6a1"]},
+        {"type": "bitmap","file": "minecraft:miecraft/bio_essence.png","height": 8,"ascent": 8,"chars": ["\ue6a2"]},
+        {"type": "bitmap","file": "minecraft:miecraft/glue.png","height": 8,"ascent": 8,"chars": ["\ue6a3"]},
+        {"type": "bitmap","file": "minecraft:miecraft/cooling_block.png","height": 8,"ascent": 8,"chars": ["\ue6a4"]},
+        {"type": "bitmap","file": "minecraft:miecraft/yellow_energy_block.png","height": 8,"ascent": 8,"chars": ["\ue6a5"]},
+        {"type": "bitmap","file": "minecraft:miecraft/fibre.png","height": 8,"ascent": 8,"chars": ["\ue6a6"]},
+        {"type": "bitmap","file": "minecraft:miecraft/sap.png","height": 8,"ascent": 8,"chars": ["\ue6a7"]},
+        {"type": "bitmap","file": "minecraft:miecraft/solid_fuel.png","height": 8,"ascent": 8,"chars": ["\ue6a8"]},
+        {"type": "bitmap","file": "minecraft:miecraft/metal_fastener.png","height": 8,"ascent": 8,"chars": ["\ue6a9"]},
+        {"type": "bitmap","file": "minecraft:miecraft/prismarine_baffle.png","height": 8,"ascent": 8,"chars": ["\ue6b0"]},
+        {"type": "bitmap","file": "minecraft:miecraft/obsidian_crystal.png","height": 8,"ascent": 8,"chars": ["\ue6b1"]},
+        {"type": "bitmap","file": "minecraft:miecraft/blue_energy_block.png","height": 8,"ascent": 8,"chars": ["\ue6b2"]},
+        {"type": "bitmap","file": "minecraft:miecraft/heavy_shell.png","height": 8,"ascent": 8,"chars": ["\ue6b3"]},
+        {"type": "bitmap","file": "minecraft:miecraft/wooden_handle.png","height": 8,"ascent": 8,"chars": ["\ue6b4"]},
+        {"type": "bitmap","file": "minecraft:miecraft/red_energy_block.png","height": 8,"ascent": 8,"chars": ["\ue6b5"]},
+        {"type": "bitmap","file": "minecraft:miecraft/clear_ender_glass.png","height": 8,"ascent": 8,"chars": ["\ue6b6"]},
+        {"type": "bitmap","file": "minecraft:miecraft/item_energy_buffer.png","height": 8,"ascent": 8,"chars": ["\ue6b7"]},
+        {"type": "bitmap","file": "minecraft:miecraft/advanced_item_energy_buffer.png","height": 8,"ascent": 8,"chars": ["\ue6b8"]},
+        {"type": "bitmap","file": "minecraft:miecraft/item_energy_controller.png","height": 8,"ascent": 8,"chars": ["\ue6b9"]},
+        {"type": "bitmap","file": "minecraft:miecraft/advanced_item_energy_controller.png","height": 8,"ascent": 8,"chars": ["\ue6c0"]},
+        {"type": "bitmap","file": "minecraft:miecraft/micro_lens.png","height": 8,"ascent": 8,"chars": ["\ue6c1"]},
+        {"type": "bitmap","file": "minecraft:miecraft/micro_field_generator.png","height": 8,"ascent": 8,"chars": ["\ue6c2"]}        
+    ]
+}
+
+
+
+

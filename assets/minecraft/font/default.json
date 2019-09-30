@@ -84,6 +84,7 @@
             "ascent": 8,
             "chars": ["\ue60b"]
         },
+
         
         {"type": "bitmap","file": "minecraft:miecraft/magic_book/processing.png","height": 8,"ascent": 8,"chars": ["\ue660"]},
         {"type": "bitmap","file": "minecraft:miecraft/magic_book/finished.png","height": 8,"ascent": 8,"chars": ["\ue661"]},
@@ -150,7 +151,23 @@
         {"type": "bitmap","file": "minecraft:miecraft/item_energy_controller.png","height": 8,"ascent": 8,"chars": ["\ue6b9"]},
         {"type": "bitmap","file": "minecraft:miecraft/advanced_item_energy_controller.png","height": 8,"ascent": 8,"chars": ["\ue6c0"]},
         {"type": "bitmap","file": "minecraft:miecraft/micro_lens.png","height": 8,"ascent": 8,"chars": ["\ue6c1"]},
-        {"type": "bitmap","file": "minecraft:miecraft/micro_field_generator.png","height": 8,"ascent": 8,"chars": ["\ue6c2"]}        
+        {"type": "bitmap","file": "minecraft:miecraft/micro_field_generator.png","height": 8,"ascent": 8,"chars": ["\ue6c2"]},
+        
+        {"type": "bitmap","file": "minecraft:miecraft/gui/mood/happy.png","height": 8,"ascent": 8,"chars": ["\ue6c3"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/mood/soso.png","height": 8,"ascent": 8,"chars": ["\ue6c4"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/mood/sad.png","height": 8,"ascent": 8,"chars": ["\ue6c5"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/0.png","height": 8,"ascent": 8,"chars": ["\ue6c6"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/1.png","height": 8,"ascent": 8,"chars": ["\ue6c7"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/2.png","height": 8,"ascent": 8,"chars": ["\ue6c8"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/3.png","height": 8,"ascent": 8,"chars": ["\ue6c9"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/4.png","height": 8,"ascent": 8,"chars": ["\ue6d0"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/5.png","height": 8,"ascent": 8,"chars": ["\ue6d1"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/6.png","height": 8,"ascent": 8,"chars": ["\ue6d2"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/7.png","height": 8,"ascent": 8,"chars": ["\ue6d3"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/8.png","height": 8,"ascent": 8,"chars": ["\ue6d4"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/9.png","height": 8,"ascent": 8,"chars": ["\ue6d5"]},
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/10.png","height": 8,"ascent": 8,"chars": ["\ue6c6"]}
+
     ]
 }
 

@@ -4,6 +4,10 @@
 		"layer0": "item/carrot_on_a_stick"
 	},
 	"overrides": [
+        {"predicate": {"custom_model_data": 13950003},"model": "miecraft/large_universal_energy_jar"},
+        {"predicate": {"custom_model_data": 13950004},"model": "miecraft/energy_emitter"},
+        {"predicate": {"custom_model_data": 13950005},"model": "miecraft/energy_receiver"},
+        
         {"predicate": {"damage":0,"custom_model_data": 13950300},"model": "miecraft/magic_pot/white/0"},
         {"predicate": {"damage":0,"custom_model_data": 13950301},"model": "miecraft/magic_pot/orange/0"},
         {"predicate": {"damage":0,"custom_model_data": 13950302},"model": "miecraft/magic_pot/magenta/0"},
@@ -157,7 +161,8 @@
         {"predicate": {"damage":1,"custom_model_data": 13950314},"model": "miecraft/magic_pot/empty"},
         {"predicate": {"damage":1,"custom_model_data": 13950315},"model": "miecraft/magic_pot/empty"},
 
-        {"predicate": {"custom_model_data": 13950400},"model": "miecraft/magic_shears"}
+        {"predicate": {"custom_model_data": 13950400},"model": "miecraft/magic_shears"},
+        {"predicate": {"custom_model_data": 13950401},"model": "miecraft/portable_sheep_nmr"}
 
 
 	]

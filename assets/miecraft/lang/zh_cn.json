@@ -185,6 +185,15 @@
     "item.mie.name.item_energy_buffer": "§r§f羊羊能量缓冲罐§r",
     "item.mie.lore0.item_energy_buffer": "§r§7§o - 快速吸收及释放微量羊羊能量§r",
 
+    "item.mie.name.circuit": "§r§f电路元件§r",
+    "item.mie.lore0.circuit": "§r§7§o - 用于仪器中的电路控制§r",
+
+    "item.mie.name.small_display_panel": "§r§f小型显示面板§r",
+    "item.mie.lore0.small_display_panel": "§r§7§o - 简单的显示面板，不大§r",
+
+    "item.mie.name.portable_machine_frame": "§r§f便携式仪器框架§r",
+    "item.mie.lore0.portable_machine_frame": "§r§7§o - 手持仪器的通用外壳§r",
+
     "item.mie.name.advanced_item_energy_buffer": "§r§e高级羊羊能量缓冲罐§r",
     "item.mie.lore0.advanced_item_energy_buffer": "§r§7§o - 超快速吸收及释放少量羊羊能量§r",
 
@@ -199,6 +208,13 @@
 
     "item.mie.name.micro_field_generator": "§r§f微型羊羊力场发射器§r",
     "item.mie.lore0.micro_field_generator": "§r§7§o - 发射由羊羊能量组成的微型力场§r",
+
+    "item.mie.name.sweet_wheat": "§r§f甜美小麦§r",
+    "item.mie.lore0.sweet_wheat": "§r§7§o - 羊羊们超喜欢吃的§r",
+
+    "item.mie.name.portable_sheep_nmr": "§r§f便携式羊羊核磁共振仪§r",
+    "item.mie.lore0.portable_sheep_nmr": "§r§7§o - 给羊羊们做NMR检查§r",
+    "item.mie.lore1.portable_sheep_nmr": "§r§7§o - 了解羊羊们的心理状态§r",
 
     "item.mie.name.sheep_helmet": "§r§e羊羊魔法头盔§r",
     "item.mie.lore0.sheep_helmet": "§r§7§o - 充满羊羊能量的头盔§r",
@@ -381,6 +397,13 @@
     "item.mie.lore1.golden_magic_sword": "§r§7§o - 击中敌人掉落经验§r",
     "item.mie.lore2.golden_magic_sword": "§r§7§o - 攻击消耗一定量黄色羊羊能量§r",
 
+
+
+
+
+
+
+
     "info.mie.pot.light_blue.switch.white": "§r§7§o - 海蓝羊羊：颜色切换至 §f白",
     "info.mie.pot.light_blue.switch.orange": "§r§7§o - 海蓝羊羊：颜色切换至 §6橙",
     "info.mie.pot.light_blue.switch.magenta": "§r§7§o - 海蓝羊羊：颜色切换至 §5紫红",
@@ -440,6 +463,10 @@
     "info.mie.pot.no_energy.black": "§r§7§o - 黑色羊羊能量不足，你的精力透支了.§r",
 
 
+    "info.mie.nmr": "§r§7§o - 这只羊羊的心情值为: %1$s§7§o, 理智值为: %2$s§7§o.§r",
+
+
+    "info.mie.book.jump_fail": "§r§7§o - 请将书本放在讲台上以使用此功能.§r",
 
 
 

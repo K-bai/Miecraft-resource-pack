@@ -4,6 +4,7 @@
         "layer0": "item/fermented_spider_eye"
     },
     "overrides": [
+        {"predicate": {"custom_model_data": 13950000},"model": "miecraft/empty"},
         {"predicate": {"custom_model_data": 13950716},"model": "miecraft/light_shell"},
         {"predicate": {"custom_model_data": 13950717},"model": "miecraft/bio_essence"},
         {"predicate": {"custom_model_data": 13950718},"model": "miecraft/glue"},

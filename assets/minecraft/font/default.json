@@ -166,8 +166,15 @@
         {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/7.png","height": 8,"ascent": 8,"chars": ["\ue6d3"]},
         {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/8.png","height": 8,"ascent": 8,"chars": ["\ue6d4"]},
         {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/9.png","height": 8,"ascent": 8,"chars": ["\ue6d5"]},
-        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/10.png","height": 8,"ascent": 8,"chars": ["\ue6c6"]}
+        {"type": "bitmap","file": "minecraft:miecraft/gui/sanity/10.png","height": 8,"ascent": 8,"chars": ["\ue6d6"]},
 
+        {"type": "bitmap","file": "minecraft:miecraft/gui/world.png","height": 12,"ascent": 12,"chars": ["\ue6d7"]},
+
+        {"type": "bitmap","file": "minecraft:miecraft/portable_sheep_nmr.png","height": 8,"ascent": 8,"chars": ["\ue6d8"]},
+        {"type": "bitmap","file": "minecraft:miecraft/sweet_wheat.png","height": 8,"ascent": 8,"chars": ["\ue6d9"]},
+        {"type": "bitmap","file": "minecraft:miecraft/circuit.png","height": 8,"ascent": 8,"chars": ["\ue6e0"]},
+        {"type": "bitmap","file": "minecraft:miecraft/small_display_panel.png","height": 8,"ascent": 8,"chars": ["\ue6e1"]},
+        {"type": "bitmap","file": "minecraft:miecraft/portable_machine_frame.png","height": 8,"ascent": 8,"chars": ["\ue6e2"]}
     ]
 }
 

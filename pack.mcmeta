@@ -1,13 +1,6 @@
 {
     "pack":{
             "pack_format": 4,
-            "description":"Miecraft 羊羊工艺资源包 v0.2.0"
-    },
-    "language": {
-        "zh_cn":{
-            "name": "简体中文",
-            "region": "中国大陆",
-            "bidirectional": false
-        }
+            "description":"Miecraft 羊羊工艺资源包 v0.3.0"
     }
 }

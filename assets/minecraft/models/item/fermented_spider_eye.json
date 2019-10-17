@@ -26,7 +26,11 @@
         {"predicate": {"custom_model_data": 13950734},"model": "miecraft/item_energy_controller"},
         {"predicate": {"custom_model_data": 13950735},"model": "miecraft/advanced_item_energy_controller"},
         {"predicate": {"custom_model_data": 13950736},"model": "miecraft/micro_lens"},
-        {"predicate": {"custom_model_data": 13950737},"model": "miecraft/micro_field_generator"}
+        {"predicate": {"custom_model_data": 13950737},"model": "miecraft/micro_field_generator"},
+        {"predicate": {"custom_model_data": 13950738},"model": "miecraft/sweet_wheat"},
+        {"predicate": {"custom_model_data": 13950740},"model": "miecraft/circuit"},
+        {"predicate": {"custom_model_data": 13950741},"model": "miecraft/small_display_panel"},
+        {"predicate": {"custom_model_data": 13950742},"model": "miecraft/portable_machine_frame"}
 	]
 }
 

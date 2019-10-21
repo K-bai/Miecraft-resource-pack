@@ -4,6 +4,6 @@
         "layer0": "item/diamond_sword"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 13950502},"model": "miecraft/magic_sword/diamond"}
+        {"predicate": {"custom_model_data": 13950502},"model": "miecraft/items/magic_sword/diamond"}
 	]
 }

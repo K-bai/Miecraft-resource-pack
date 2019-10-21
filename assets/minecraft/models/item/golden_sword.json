@@ -4,6 +4,6 @@
         "layer0": "item/golden_sword"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 13950500},"model": "miecraft/magic_sword/golden"}
+        {"predicate": {"custom_model_data": 13950500},"model": "miecraft/items/magic_sword/golden"}
 	]
 }

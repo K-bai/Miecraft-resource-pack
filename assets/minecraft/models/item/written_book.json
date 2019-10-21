@@ -4,7 +4,7 @@
         "layer0": "item/written_book"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 13950100},"model": "miecraft/magic_book/processing"},
-        {"predicate": {"custom_model_data": 13950200},"model": "miecraft/magic_book/finished"}
+        {"predicate": {"custom_model_data": 13950100},"model": "miecraft/items/magic_book/processing"},
+        {"predicate": {"custom_model_data": 13950200},"model": "miecraft/items/magic_book/finished"}
 	]
 }

@@ -5,6 +5,6 @@
         "layer1": "item/leather_chestplate_overlay"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 13950601},"model": "miecraft/armor/sheep_chestplate"}
+        {"predicate": {"custom_model_data": 13950601},"model": "miecraft/items/armor/sheep_chestplate"}
 	]
 }

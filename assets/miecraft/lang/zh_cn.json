@@ -468,6 +468,21 @@
 
     "info.mie.book.jump_fail": "§r§7§o - 请将书本放在讲台上以使用此功能.§r",
 
+    "info.mie.wrench.large_universal_energy_jar.title": "§r§7§o - [大型通用羊羊能量储罐]§r",
+    "info.mie.wrench.large_universal_energy_jar.msg1": "§r§7§o - 总存储能量：%1$s§r",
+    "info.mie.wrench.large_universal_energy_jar.msg2": "§r§7§o - 各颜色存储能量：§r§f%1$s §r§6%2$s §r§5%3$s §r§b%4$s §r§e%5$s §r§a%6$s §r§d%7$s §r§8%8$s §r§7%9$s §r§3%10$s §r§1%11$s §r§9%12$s §r§4%13$s §r§2%14$s §r§c%15$s §r§0%16$s§r",
+
+    "info.mie.wrench.energy_receiver.title": "§r§7§o - [羊羊能量接收器]§r",
+    "info.mie.wrench.energy_emitter.title": "§r§7§o - [羊羊能量发射器]§r",
+    "info.mie.wrench.energy_receiver.msg1.all": "§r§7§o - 当前能量通道：通用§r",
+    "info.mie.wrench.energy_receiver.msg1.coal": "§r§7§o - 当前能量通道：煤炭§r",
+    "info.mie.wrench.energy_receiver.msg1.iron": "§r§7§o - 当前能量通道：铁§r",
+    "info.mie.wrench.energy_receiver.msg1.gold": "§r§7§o - 当前能量通道：金§r",
+    "info.mie.wrench.energy_receiver.msg1.redstone": "§r§7§o - 当前能量通道：红石§r",
+    "info.mie.wrench.energy_receiver.msg1.lapis": "§r§7§o - 当前能量通道：青金石§r",
+    "info.mie.wrench.energy_receiver.msg1.glowstone": "§r§7§o - 当前能量通道：萤石§r",
+    "info.mie.wrench.energy_receiver.msg2": "§r§7§o - 将对应物品丢至该方块上可改变能量通道.§r",
+    "info.mie.wrench.energy_receiver.msg3": "§r§7§o - 羊羊扳手下蹲右键方块可变为通用通道.§r",
 
 
     "info.mie.infusion.start": "§r§7§o - 注魔开始, 请按配方安排足量羊羊能量§r",
@@ -477,8 +492,6 @@
 
 
 }
-
-
 
 
 

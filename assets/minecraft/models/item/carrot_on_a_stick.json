@@ -15,6 +15,7 @@
         {"predicate": {"damage":1,"custom_model_data": 13950003},"model": "miecraft/blocks/large_universal_energy_jar"},
         {"predicate": {"custom_model_data": 13950004},"model": "miecraft/blocks/energy_emitter"},
         {"predicate": {"custom_model_data": 13950005},"model": "miecraft/blocks/energy_receiver"},
+        {"predicate": {"custom_model_data": 13950006},"model": "miecraft/blocks/sheep_conveyor"},
         
         {"predicate": {"damage":0,"custom_model_data": 13950300},"model": "miecraft/items/magic_pot/white/0"},
         {"predicate": {"damage":0,"custom_model_data": 13950301},"model": "miecraft/items/magic_pot/orange/0"},
